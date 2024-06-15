@@ -2,3 +2,5 @@ alpine:20240606 registry.cn-hangzhou.aliyuncs.com/dockerfork/alpine:20240606
 ggvick/python3.9:latest registry.cn-hangzhou.aliyuncs.com/dockerfork/python3.9:latest
 osi4iot/portainer_agent:latest registry.cn-hangzhou.aliyuncs.com/dockerfork/portainer_agent:latest
 portainer/portainer:latest registry.cn-hangzhou.aliyuncs.com/dockerfork/portainer:latest
+tensorflow/tensorflow:nightly-jupyter registry.cn-hangzhou.aliyuncs.com/dockerfork/tensorflow_nightly-jupyter:latest
+postgres:12.19-bullseye registry.cn-hangzhou.aliyuncs.com/dockerfork/postgres:latest
