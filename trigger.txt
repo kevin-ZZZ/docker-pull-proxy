@@ -4,3 +4,4 @@ osi4iot/portainer_agent:latest registry.cn-hangzhou.aliyuncs.com/dockerfork/port
 portainer/portainer:latest registry.cn-hangzhou.aliyuncs.com/dockerfork/portainer:latest
 tensorflow/tensorflow:nightly-jupyter registry.cn-hangzhou.aliyuncs.com/dockerfork/tensorflow_nightly-jupyter:latest
 postgres:12.19-bullseye registry.cn-hangzhou.aliyuncs.com/dockerfork/postgres:latest
+inveniosoftware/centos7-python:3.9   registry.cn-hangzhou.aliyuncs.com/inveniosoftware/centos7-python:latest
